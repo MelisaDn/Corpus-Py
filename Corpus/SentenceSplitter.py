@@ -1,6 +1,5 @@
 from abc import abstractmethod
 import re
-from idlelib.config_key import PUNCTUATION_KEYS
 
 from Corpus.Sentence import Sentence
 from Dictionary.Word import Word
